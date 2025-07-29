@@ -234,7 +234,7 @@ class TriNet(nn.Module):
 
         self.lrelu = nn.LeakyReLU(0.1, inplace=True)
 
-        self.use_checkpointing_internally = True
+        # self.use_checkpointing_internally = True
 
     def forward(self, f, m):
         # ==========================

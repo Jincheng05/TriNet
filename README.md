@@ -2,7 +2,7 @@
 
 This paper proposes a Triple-stream Deformable Pyramid Network (TriNet) for unsupervised medical image registration, aiming to address the issues of existing deep learning-based registration methods, such as the lack of explicit modeling of spatial correspondences in encoders and detail loss caused by decoder upsampling.
 
-![TriNet Architecture](https://github.com/calculate-w-j-c/TriNet/blob/main/TriNet.png)
+![TriNet Architecture](https://github.com/Jincheng05/TriNet/blob/main/TriNet.png)
 
 
 
